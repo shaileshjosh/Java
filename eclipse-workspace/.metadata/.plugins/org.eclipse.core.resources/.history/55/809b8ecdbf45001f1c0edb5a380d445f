@@ -1,0 +1,10 @@
+package com.springexample.springexample;
+
+public class Student {
+	String firstName;
+	String lastName;
+	int rollNo;
+	String department;
+	Address address; 
+
+}
